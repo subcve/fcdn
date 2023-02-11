@@ -1,4 +1,4 @@
-package fcdn
+package main
 
 import (
 	"bufio"
